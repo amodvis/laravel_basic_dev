@@ -1,5 +1,5 @@
 {
-  "name": "amodvis/laravel_basic_dev",
+  "name": "dd01/laravel-basic-dev",
   "type": "library",
   "scripts": {
     "post-autoload-dump": [
